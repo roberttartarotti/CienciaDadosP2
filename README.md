@@ -9,3 +9,5 @@ Nome                | RA      | Especialização
 Emilia Oliveira     | 262867  | Saúde
 Gabriel Garcia      | 216179  | Computação
 Robert Tartarotti   | 157173  | Elétrica
+
+Relatorio feito no notebook, clique [aqui](https://github.com/roberttartarotti/CienciaDadosP2/blob/main/notebooks/P2.ipynb) para acessar. 
