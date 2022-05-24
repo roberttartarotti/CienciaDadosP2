@@ -1,8 +1,11 @@
 # CienciaDadosP2
-O presente projeto foi originado no contexto da atividade 2 da disciplina de pós-graduação Ciência e Visualização de Dados em Saúde, oferecida no primeiro semestre de 2022, na Unicamp.
 
-Grupo:
+O presente projeto foi originado para satisfazer a atividade 2 da disciplina de pós-graduação Ciência e Visualização de Dados em Saúde, oferecida no primeiro semestre de 2022, na Unicamp.
 
-Emilia Oliveira - RA: 262867
-Gabriel Garcia - RA: 216179
-Robert Tartarotti - RA: 157173
+O trabalho foi realizado pelo grupo (Tabela 1):
+
+Nome                | RA      | Especialização
+--------------------|---------|---------------
+Emilia Oliveira     | 262867  | Saúde
+Gabriel Garcia      | 216179  | Computação
+Robert Tartarotti   | 157173  | Elétrica
