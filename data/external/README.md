@@ -19,3 +19,5 @@ https://github.com/santanche/lab2learn
 Ou, mais especificamente:
 
 https://github.com/santanche/lab2learn/tree/master/data/synthea
+
+Para o cenário 3, os dados foram coletados de https://drive.google.com/drive/u/1/folders/1057xNQ373dZwvASZcX4PFzzHaspeZd8g
