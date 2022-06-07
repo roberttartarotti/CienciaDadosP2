@@ -1,8 +1,8 @@
 # Ciencia de Dados
 
-O presente projeto foi originado para satisfazer a atividade 2 da disciplina de pós-graduação Ciência e Visualização de Dados em Saúde, oferecida no primeiro semestre de 2022, na Unicamp.
+O presente projeto foi originado para satisfazer as atividades da disciplina de pós-graduação Ciência e Visualização de Dados em Saúde, oferecida no primeiro semestre de 2022, na Unicamp.
 
-O trabalho foi realizado pelo grupo (Tabela 1):
+O trabalho foi realizado pelo grupo:
 
 Nome                | RA      | Especialização
 --------------------|---------|---------------
