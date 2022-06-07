@@ -10,3 +10,5 @@ Dataset usado para o artigo abaixado de:
 https://manliodedomenico.com/data.php
 
 Para este trabalho, foi usado o conteudo de HumanHerpes4_Multiplex_Genetic
+
+Os demais materias não puderam ser utilizados devido a limitações de sistema para processamento.
