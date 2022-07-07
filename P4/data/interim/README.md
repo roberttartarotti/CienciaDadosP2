@@ -1,0 +1,1 @@
+Como foi verificado que salvar a imagem e depois abrir novamente não era uma atitude positiva para o resultado do projeto, não foram gerados dados intermediarios.

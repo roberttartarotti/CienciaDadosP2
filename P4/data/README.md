@@ -1,0 +1,1 @@
+Dados usados pelo google colab notebook - No caso, foi usado o conteudo passado pela professora (não houve download nem copia, apenas link).

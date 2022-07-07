@@ -13,3 +13,5 @@ Robert Tartarotti   | 157173  | Elétrica
 Relatorio feito para a P2 no notebook, clique [aqui](https://github.com/roberttartarotti/CienciaDados/blob/main/P2/notebooks/P2.ipynb) para acessar. 
 
 Relatorio feito para a P3 no notebook, clique [aqui](https://github.com/roberttartarotti/CienciaDados/blob/main/P3/notebook/P3.ipynb) para acessar. 
+
+Relatorio feito para a P3 no notebook, clique [aqui](https://github.com/roberttartarotti/CienciaDados/blob/main/P4/notebook/P4.ipynb) para acessar. 
