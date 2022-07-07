@@ -14,4 +14,4 @@ Relatorio feito para a P2 no notebook, clique [aqui](https://github.com/robertta
 
 Relatorio feito para a P3 no notebook, clique [aqui](https://github.com/roberttartarotti/CienciaDados/blob/main/P3/notebook/P3.ipynb) para acessar. 
 
-Relatorio feito para a P3 no notebook, clique [aqui](https://github.com/roberttartarotti/CienciaDados/blob/main/P4/notebook/P4.ipynb) para acessar. 
+Relatorio feito para a P4 no notebook, clique [aqui](https://github.com/roberttartarotti/CienciaDados/blob/main/P4/notebook/P4.ipynb) para acessar. 
