@@ -1,0 +1,94 @@
+só interessa neutrofico
+
+a tabela que parece data é data e hora da coleta
+o numero é idade
+8 digitos é o identificador de paciente
+vmf e sexo
+m f u - uncknow
+
+nome de parametros foi preservado
+
+valores são realistas
+
+os dados estão em varios arquivos porque a maquina não aguenta
+
+virgula é decimal (não é separador de coluna)
+
+?segunda coluna é RNA
+
+entrou no hc com neutropenia está na tabela
+
+o objetivo é fazer um cruzamento entre a lista que ele trouxe de pacientes 
+dele com a base de exames, identificar essas pessoas lá, 
+e identificar aquelas que tiveram entropenia
+
+Se a pessoa ficar internada por 30 dias vai ter 30 linhas 
+
+interesse é na primeira vez que o paciente deu a neutropenia (primeira vez que ocorreu a medida com neutropenia)
+primeiro hemograma
+
+saber a associação da area sobre a curva 
+
+saber da primeira vez que ocorreu
+
+primeiro exame com neutropenia é o de interesse: Resposta, o paciente, a data e o resultado.
+
+cada vez que ele interna ele é um individuo
+
+fazer alguma analise de distribuição de intervalos entre uma sequencia de hemogramas e outra
+possivel resultado: 99% das vezes o intervalo entre hemogramas foi 30 dias...
+
+13 planilhas de dada
+na de registro são só os identificadores do paciente (de todos os pacientes do hemocentro). Só interessa quem ta nas duas. 
+17763 registros
+Pode ter dados duplicados
+
+repete porque são diferentes análises de registro
+
+Do HC tem todos os hemogramas
+
+Esperado: 
+1 tabela no mesmo formato que está (12 ou 13), só que ao invés de ter milhares de individuos, terá só quem tem neutrofico absoluto abaixo de 500 
+
+neutrofico abaixo de 500 -> Paciente de interesse. 
+
+Paciente tem que ter neutrofico acima de 1000 para ser liberado.
+
+Possivel padrão: Neutrofico abaixo de 500, é internado, ai é liberado acima de 1000. Se volta abaixo de 500, pode ser uma outra internação.
+
+a idade é um parametro 
+
+estimo que destes dados (3 milhões de linhas), deva ter 200 pacientes.
+
+Existe um valor que seria um erro de medição: Acima de 20 mil / 30 mil. 0 não é um erro.
+De 0 à 20 mil não é erro.
+
+Todos que tem registro no hemocentro são de interesse.
+
+Valores prenchidos por maquina
+
+------------------------------------
+Hipotese - not to do:
+Usar esses dados para fazer análise comparativa / teste de hipotese. 
+Tipo: Isso que está sendo observado no HC
+
+Interesse é comparar com o mimic porque ai compara o Brasil com united states
+
+Um modelo mais simples é pegar o neutropico e outros e comparar
+
+para ter acesso precisa ter um curso de ética americana - mas é rapido
+
+------------------------------------
+Entrega: Relatorio
+Retomar perguntas feitas
+Analisar um determinado aspecto - deixar claro qual aspecto está sendo análizado
+
+Na hora de escrever, relatem as dificuldade, as limitações do proprio estudo. quer entender quais
+foram as dificuldades encontradas, 
+
+ser critico sobre a abordagem escolhida
+
+Recomendação: Google colabe e fazer relatorio e código no jupyter. 
+Se quiser usar outra ferramenta, (SPSS - mais usado na medicina. Graficos com graphpad)
+
+Entregar o relatorio em PDF e todos os arquivos relacionados

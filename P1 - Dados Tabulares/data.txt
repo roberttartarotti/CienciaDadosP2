@@ -1,0 +1,85 @@
+Como identificar neutropenia:
+Neutrófilos abaixo de 50 mcg/ml
+
+Quero encontrar a primeira vez que a neutropenia apareceu.
+Encontrar a relação do primeiro hemograma com o último.
+Distribuição de intervalos entre uma sequência de hemogramas e outra.
+
+Saudável: neutrófilos > 1800
+Sem risco: neutrófilos > 1000
+
+Identificar neoplasia hematológica.
+
+
+Proposta:
+Obter todos os hemogramas de pacientes internados no HC
+Identificar aqueles com neutropenia.
+Identificar os que são pacientes do hemocentro.
+Identificar o primeiro hemograma de cada paciente.
+
+
+Comparar com os dados do Mimic
+
+
+P1 - Dados Tabulares
+
+Neste projeto, tentaremos resolver responder as perguntas de pesquisa do Prof. Erich de Paula, Coordenador do Hemocentro da Unicamp.
+Para isso, vocês estão recebendo protótipos dos dados a serem utilizados para responder as perguntas.
+
+Tais dados têm características de dados reais. Foram preservados, por exemplo, todos os erros e falhas dos processos de coleta originais, bem como dos erros inseridos pela manipulação inadequada dos dados, até eles chegarem em nossas mãos. A natureza biológica dos dados também foi preservada, assim como o nome dos procedimentos e suas características.
+
+O objetivo didático de manter tais erros é expô-los à realidade típica da Ciência e Visualização de Dados em Saúde.
+
+
+Como primeira etapa na realização desse projeto, iremos nos reunir com o Prof. Erich, hoje, dia 31/03.
+Vocês devem encarar esse encontro como uma reunião de trabalho. Perguntem a ele tudo que vocês julgam relevante para conduzir o projeto.
+
+Onde estão os dados e qual a política de uso dos mesmos?
+=================================================
+Os dados estão disponibilizados na pasta raw:  https://drive.google.com/drive/folders/1KqJajMkjC_9M0Mv5OTU4QW4RQECxQpf9?usp=sharing
+Convidamo-los a lerem o artigo que propõe uma estrutura de diretórios padronizada: https://drivendata.github.io/cookiecutter-data-science/
+
+Recomendamos que vocês conduzam o projeto usando notebooks Jupyter, por meio da ferramenta Google Colab e que não realizem cópias locais dos dados.
+Leiam os dados do próprio diretório no Google. Cuidado! Não sobrescrevam os arquivos originais (a política é: nunca salvem nada em raw).
+
+Caso você queira realizar seu projeto em outra ferramenta, recomendamos que apague as cópias locais dos dados após o término do projeto.
+Você não deve colocar cópias desses dados em repositórios públicos (como por exemplo github) ou compartilhar com alunos de fora da disciplina.
+
+Consideramos que tais procedimentos fazem parte do objetivo didático da disciplina de incutir uma preocupação constante com o armazenamento desses dados.
+Por esse motivo, caso detectemos compartilhamento público ou com pessoas de fora da disciplina, a nota do projeto será zerada.
+
+
+
+O que é esperado de vocês?
+=======================
+
+ENTREGA:
+
+Na data de entrega do projeto vocês devem nos entregar, via Classroom, um relatório completo da condução do projeto e códigos associados.
+Para aqueles que optarem pelo uso da ferramenta Google Colab, a entrega deve ser realizada num único arquivo (ipynb), com texto e códigos integrados.
+
+Para aqueles que optarem pelo uso de outras ferramentas, devem encaminhar um arquivo PDF do relatório e um arquivo com os códigos associados ao desenvolvimento. Caso sejam múltiplos arquivos de código, deve-se criar um arquivo ZIP. A entrega deve conter orientações para que os professores possam executar os códigos.
+Notem que existem ferramentas de geração de notebook para R e que é possível rodar códigos em R no Google Colab também.
+
+DIMENSÕES DE AVALIAÇÃO DO RELATÓRIO:
+Seu relatório deve conter as informações consideradas relevantes para a documentação de um projeto de ciência de dados (para saber que informações são essas, veja a referência CRISP-DM).
+Em particular, seu relatório versar sobre os seguintes tópicos:
+Apresentar claramente quais são as perguntas de pesquisa tratadas pelo seu projeto.
+Apresentar os pressupostos assumidos.
+Descrição do conjunto de dados utilizado.
+Nesse projeto, é obrigatório que seu relatório tenha uma seção associada à análise exploratória dos dados com estatísticas descritivas e gráficos capazes de descrever os dados adequadamente.
+Descrição das etapas de pré-processamento e transformações necessárias, justificando suas escolhas (Ao invés de dizer que você fez um "drop de linhas nulas"  explique que seus dados tinham "n" linhas que não estavam preenchidas e que sua estratégia foi remover essas linhas.)
+Descrição da abordagem estatística escolhida para responder as perguntas de pesquisa.
+Apresentação e discussão dos resultados.
+Relato das limitações da abordagem adotada e principais dificuldades encontradas.
+GRUPO:
+
+O projeto pode ser realizado individualmente, em duplas ou trios.
+
+MÉTODO DE AVALIAÇÃO:
+Conduziremos um processo de avaliação por pares.
+O processo de avaliação por pares caracterizará uma atividade de participação que será que será descrita oportunamente.
+
+https://drivendata.github.io/cookiecutter-data-science/
+
+https://www.youtube.com/watch?v=_Zil9RvH9_A
